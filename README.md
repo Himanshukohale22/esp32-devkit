@@ -9,12 +9,15 @@ Hardware files for esp32-devkit
 ### Specification
 ---
 * ESP32 wroom 32 onboard microcontroller.
-* High operating frequency fast and reliable with low power supply.
+* High operating frequency.
+* fast and reliable with low power supply.
 * Blutooth and wifi availability.
 * power supply
-    * usb b mini
-    * Vin pin
+    * usb b mini 
+    * Vin pin (3.5-12v)
 * consist of GPIO's,I2c,SPI,UART communicaton protocols.
+* ESP32 Wroom is SOC with wifi and Bluetooth capabilities.
+
 
 
 
